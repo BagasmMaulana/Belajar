@@ -1,0 +1,26 @@
+*{
+
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.header h1 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.header p {
+    color: #737373;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
